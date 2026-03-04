@@ -1,4 +1,4 @@
-Name: zmk-config-steng
+Name: zmk-config-sten
   build:
     settings:
       board_root: .
