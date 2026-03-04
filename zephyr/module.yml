@@ -1,4 +1,3 @@
-Name: zmk-keyboard-steno
-  build:
-    settings:
-      board_root: .
+build:
+  settings:
+    board_root: zmk-keyboard-steng
